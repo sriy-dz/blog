@@ -1,0 +1,1 @@
+document.getElementById("darkmode").addEventListener("click",function(){var e=document.body.classList.toggle("night");localStorage.setItem("darkmode-banner",e)}),jQuery(document).ready(function(e){e(function(){e("darkmode").click(function(e){e.preventDefault()})})});
