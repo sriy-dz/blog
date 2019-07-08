@@ -175,3 +175,31 @@
 #home-rc2-bsw span.BSW-rc-_meta_comment a:hover{color:#ff675c!important}
 #home-rc2-bsw span.BSW-rc-_meta_date:before{content:&quot;\f133&quot;;font-family:&#39;Font Awesome 5 free&#39;;font-style:normal;font-weight:normal;text-decoration:inherit;padding-right:5px}
 #home-rc2-bsw ul.BSW-rc-_thumbs2 li a:hover,ul.BSW-rc-_thumbs li a:hover{color:#ff675c;text-decoration:none}
+.share-post .more-label{
+    position:relative;
+    align-items: center;
+    color: #606770;
+    display: flex;
+    font-weight: 600;
+    height: 32px;
+    justify-content: center;
+    line-height: 14px;
+    padding: 0 2px;
+    text-decoration: none;
+}
+
+.share-post:hover {
+background: #f9f9f9;
+}
+.comments-post{
+    align-items: center;
+    display: flex;
+    flex: 1 0;
+    justify-content: center;
+}
+.share-post{
+    align-items: center;
+    display: flex;
+    flex: 1 0;
+    justify-content: center;
+}
