@@ -203,3 +203,27 @@ background: #f9f9f9;
     flex: 1 0;
     justify-content: center;
 }
+._3vum {
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    color: #606770;
+    display: flex;
+    line-height: 20px;
+    margin: 10px 12px 0 12px;
+    padding: 0 0 10px 0;
+}
+._66lg {
+    align-items: center;
+    display: flex;
+    flex-grow: 1;
+    overflow: hidden;
+}
+._1r48 {
+    flex-grow: 0;
+    flex-shrink: 0;
+    width: 7px;
+}
+._4vn1 {
+    display: flex;
+    flex-shrink: 0;
+}
